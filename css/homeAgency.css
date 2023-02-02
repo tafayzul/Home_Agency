@@ -1,0 +1,75 @@
+.main-container{
+    max-width:1900px;
+    margin:0 auto;
+}
+/* Nav */
+.main-nav-container-1{
+    filter: drop-shadow(0px 1px 0px #e6e9ed);
+    background-color: #f5f7f9;
+}
+
+/* we can use setAttribute,addClassList and also Style using for Each */
+.my-social-icons{       
+    font-size: 13px;
+    padding:15px 0px 15px 20px;
+}
+
+.main-nav-container-2{
+    filter: drop-shadow(0px 1px 0px #e6e9ed);
+    background-color: #ffffff;
+}
+/* Design */
+.main-design-container{
+    background-color:#506a85;
+    height:880px;
+}
+
+.design-button-class{
+    width: 295px;
+    height: 65px;
+    border-radius: 3px;
+    border-style:solid;
+    cursor: pointer;
+    box-shadow: inset 0px -2px 0px rgba(0,0,0,0.15);
+    background-color: #00bb9b;
+    color:#ffffff;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+/* Clean */
+.main-clean-container{
+    background-color:#fff;
+}
+.main-clean-container-1{
+    background-color: black;
+}
+.clean-pcq-image-container img{
+    filter: hue-rotate(300deg) brightness(160%);
+}
+/* Color */
+.main-color-container{
+    background-color: #f1f5f7;
+}
+
+.dot{
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    border-radius: 7px;
+    background-color: #506a85;
+    margin: 10px;
+}
+
+/* work */
+.work-button{
+    width: 150px;
+    height: 50px;
+    border-radius: 3px;
+    border-style:solid;
+    cursor: pointer;
+    box-shadow: inset 0px -2px 0px rgba(0,0,0,0.15);
+    background-color: #00bb9b;
+    color:#ffffff;
+    font-weight: 800;
+    font-family: sans-serif;
+}
